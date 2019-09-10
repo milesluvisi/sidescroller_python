@@ -1,0 +1,2 @@
+Run in pygame 1.9.4 with the latest version of python
+run command is: py game1.py
